@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #cac4c48c;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 20px; /* 调整向上移动的值 */
+    color: #ffffff;
+    background-color: #868686; /* 添加背景颜色 */
+    text-shadow: 2px 2px 4px #000000; /* 添加发光特效 */
+  }
+
+p {
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  background-color: #bfbebe8c;
+  padding: 10px;
+}
+
+.image {
+  margin-top: 4px;
+  text-align: center;
+}
+
+.image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.image p {
+    font-size: 20px;
+    margin-top: 5px; /* 调整上边距的值 */
+    color: #000000;
+  }
+
+.祝福 {
+    background-color: #510C0F;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    box-shadow: 0 0 10px #5b1212; 
+  }
+
